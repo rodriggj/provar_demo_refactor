@@ -9,11 +9,21 @@
 ## Runbook
 
 #### Development
+Steps: 
+1. Nav to `TestConf/front-end` and run 
+```javascript 
+npx create-react-app testconf
+```
 
+2. 
 ##### Environment 
 - [ ] Local developement 
 - [ ] Visual Studio Code Editor [Documenation](https://code.visualstudio.com/docs/?dv=osx)
+    + Prettier - Code Formatter
+    + Simple React Snippets
+
 - [ ] React Dev Tools (Google Chrome Extension) [Documentation](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [ ] Google Chrome Browser
 
 
 ##### Resourcing / Dependencies
